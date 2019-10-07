@@ -1,0 +1,21 @@
+{
+    "name": "ratech/adminpanel",
+    "description": "this admin panel design for best exprience admins .",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Ranjbar",
+            "email": "mj.ranjbar.94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Ratech\\AdminPanel\\": "src/"
+        }
+    }
+}
