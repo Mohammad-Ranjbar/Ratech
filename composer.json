@@ -13,6 +13,13 @@
     "require": {
 
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ratech\\AdminPanel\\ServiceProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Ratech\\AdminPanel\\": "src/"
